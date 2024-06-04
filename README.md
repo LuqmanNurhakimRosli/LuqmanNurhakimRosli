@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Luqman Nurhakim
 #### Passionate Full-Stack Developer
-![Passionate Full-Stack Developer](https://arturssmirnovs.github.io//images/banner.png)
+![Header](./your-header-image-name.png)
 
 I am a highly motivated and results-oriented Computer Science student with strong skills in programming, web development, and databases. 
 
