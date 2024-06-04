@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Luqman Nurhakim
-#### Passionate Full-Stack Developer
+#### Computer Science Student
 ![Header](./github-header-image.png)
 
 I am a highly motivated and results-oriented Computer Science student with strong skills in programming, web development, and databases. 
