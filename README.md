@@ -4,7 +4,7 @@
 
 I am a highly motivated and results-oriented Computer Science student with strong skills in programming, web development, and databases. 
 
-Skills: HTML / CSS / JavaScript / Java / Python / React / PHP /MySQL
+Skills: HTML / CSS / JavaScript / Java / Python / React / PHP / MySQL / C++ / C#
 
 - 🔭 I’m currently working on Car Wash Booking Website 
 - 🌱 I’m currently learning React 
