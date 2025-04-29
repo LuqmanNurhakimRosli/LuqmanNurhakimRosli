@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Luqman Nurhakim
-#### Computer Science Student
+#### AI Student
 ![Header](./github-header-image.png)
 
 I am a highly motivated and results-oriented Computer Science student with strong skills in programming, web development, and databases. 
 
-Skills: HTML / CSS / JavaScript / Java / Python / React / PHP / MySQL / C++ / C#
+Skills: React / TypeScript / NextJS / Tailwind / Python / PHP / MySQL / C++ / C#
 
-- 🔭 I’m currently working on Car Wash Booking Website 
+- 🔭 Participated in JomHack 
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: luqmanrosli907@gmail.com 
 - ⚡ Fun fact: I like to hear old stories! 
